@@ -637,7 +637,3 @@ Yes, but you must ensure the loop ends using another mechanism (such as `break`)
 - `for` loops are useful for counting, calculations, patterns, and processing arrays.
 
 ---
-
-## Next Topic
-
-➡️ `while` Loop
